@@ -1,0 +1,123 @@
+[33mcommit a68adc4b0db93cfd487e49696c51fef5abec08c1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: f92b1e6 9142888
+Author: Asiiat <asiat@live.ru>
+Date:   Thu Jul 13 13:02:05 2023 +0200
+
+    Merge branch 'main' of https://github.com/Andrewu98/ItStep
+
+[33mcommit f92b1e60e5960596dd27b2bf521ba4c04158fb0f[m
+Author: Asiiat <asiat@live.ru>
+Date:   Thu Jul 13 12:59:33 2023 +0200
+
+    new modernization
+
+[33mcommit 9142888ed9b37ea8b17d11a820595f8515f21db4[m
+Author: Andrewu98 <136886598+Andrewu98@users.noreply.github.com>
+Date:   Thu Jul 13 12:24:11 2023 +0200
+
+    Update CODEOWNERS
+    
+    Add Aska888
+
+[33mcommit c69d54a61a5e1778b3e4ac55412af1f22f1b9d7c[m[33m ([m[1;32madd-more-instructions[m[33m)[m
+Author: Andrewu98 <136886598+Andrewu98@users.noreply.github.com>
+Date:   Wed Jul 12 11:55:25 2023 +0200
+
+    Update README.md
+    
+    Add some bio
+
+[33mcommit b8fb107f0e39cddb690f5e46f7d9ab2891e2b8c2[m
+Author: Andrewu98 <136886598+Andrewu98@users.noreply.github.com>
+Date:   Wed Jul 12 11:45:13 2023 +0200
+
+    Create CODEOWNERS
+    
+    new codeowners added
+
+[33mcommit 15c41a455a49c96dad9e2a3bbc437cfd9135326a[m
+Author: Andrewu98 <136886598+Andrewu98@users.noreply.github.com>
+Date:   Wed Jul 12 11:42:47 2023 +0200
+
+    Update README.md
+    
+    Additional comments
+
+[33mcommit 0cf43b42878504c235df9fa0b4566ef2470aeb5e[m
+Merge: 31c14ca d6f97bd
+Author: Andrewu98 <Andre_wu98@student.itstep.academy>
+Date:   Wed Jul 12 10:18:32 2023 +0200
+
+    Merge branch 'main' of github.com:Andrewu98/ItStep
+
+[33mcommit 31c14caf203b8e8f96eb3c61b267b5db2165463a[m
+Author: Andrewu98 <Andre_wu98@student.itstep.academy>
+Date:   Wed Jul 12 10:17:17 2023 +0200
+
+    update website title
+
+[33mcommit d6f97bdc6289970c681551f9a62d9eede8793e70[m
+Author: Andrewu98 <136886598+Andrewu98@users.noreply.github.com>
+Date:   Wed Jul 12 10:15:02 2023 +0200
+
+    Update Instructions.txt
+    
+    Update title
+
+[33mcommit 1963efa865d7abcb20d36c460e804937cd67dd48[m
+Author: Andrewu98 <136886598+Andrewu98@users.noreply.github.com>
+Date:   Wed Jul 12 09:55:50 2023 +0200
+
+    Create Instructions.txt
+    
+    Test new file directly in repository
+
+[33mcommit 3233be464fd82133c9777009d7ca32d9c4cf2617[m
+Author: Andrewu98 <136886598+Andrewu98@users.noreply.github.com>
+Date:   Wed Jul 12 09:29:13 2023 +0200
+
+    Update index.html
+    
+    change greeting
+
+[33mcommit 11a8ec9cdec92153d3de450a8ebf4e8462270fc5[m
+Author: Andrewu98 <Andre_wu98@student.itstep.academy>
+Date:   Wed Jul 12 09:23:30 2023 +0200
+
+    web page template add
+
+[33mcommit 2b20d594fad89cfedda2c823603dfda06abaf389[m
+Author: Andrewu98 <Andre_wu98@student.itstep.academy>
+Date:   Fri Jun 30 20:19:41 2023 +0200
+
+    jira bugs
+
+[33mcommit db038227ac427d8b411365ea297b5c43f1d8c0d7[m
+Author: Andrewu98 <Andre_wu98@student.itstep.academy>
+Date:   Fri Jun 30 19:40:44 2023 +0200
+
+    update test case
+
+[33mcommit ba9608488ec8410baca10c20244f0069ed750192[m
+Author: Andrewu98 <Andre_wu98@student.itstep.academy>
+Date:   Fri Jun 30 19:32:03 2023 +0200
+
+    test case file
+
+[33mcommit e681b8543d32d78b978071e16489dac5dc711f2e[m
+Author: Andrewu98 <136886598+Andrewu98@users.noreply.github.com>
+Date:   Mon Jun 19 15:23:05 2023 +0200
+
+    Add new homework files for GitHub testing
+
+[33mcommit d605f55d82673599509776184e2204dc8485b42c[m
+Author: Andrewu98 <136886598+Andrewu98@users.noreply.github.com>
+Date:   Sat Jun 17 11:40:14 2023 +0200
+
+    Update README.md
+
+[33mcommit 66059480b794f28e569135b863e7b2e902cdde8c[m
+Author: Andrewu98 <136886598+Andrewu98@users.noreply.github.com>
+Date:   Sat Jun 17 11:20:23 2023 +0200
+
+    Initial commit
